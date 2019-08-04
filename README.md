@@ -1,5 +1,13 @@
 # Magento 2 Multi Coupons
 Magento 2 Multi Coupons will allow customer can apply more coupon code when checkout.
+Increase customer loyalty by enabling registered clients and guest visitors use numerous discount coupons for one order.
+
+Use several coupons per order
+Allow guest visitors to use multiple coupons
+Display the list of applied coupons in the shopping cart and checkout
+Limit usage of specific coupons together with other promo codes
+Apply/remove multiple coupons when creating orders in admin pane
+
 ## Highlight features for for Product Questions
 ### Backend
 #### Configuration
