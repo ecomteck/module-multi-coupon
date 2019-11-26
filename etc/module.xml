@@ -1,23 +1,18 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Ecomteck
- *
- * NOTICE OF LICENSE
- *
- * This source file is subject to the ecomteck.com license that is
- * available through the world-wide-web at this URL:
- * https://ecomteck.com/LICENSE.txt
+ * Ecomteck_MultiCoupon module loading configuration.
  *
  * DISCLAIMER
  *
- * Do not edit or add to this file if you wish to upgrade this extension to newer
- * version in the future.
+ * Do not edit or add to this file if you wish to upgrade Ecomteck ElasticSuite to newer
+ * versions in the future.
  *
- * @category    Ecomteck
- * @package     Ecomteck_MultiCoupon
- * @copyright   Copyright (c) 2019 Ecomteck (https://ecomteck.com/)
- * @license     https://ecomteck.com/LICENSE.txt
+ * @category  Ecomteck
+ * @package   Ecomteck\MultiCoupon
+ * @author    Ecomteck <ecomteck@gmail.com>
+ * @copyright 2019 Ecomteck
+ * @license   Open Software License ("OSL") v. 3.0
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">

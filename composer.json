@@ -1,20 +1,21 @@
 {
     "name": "ecomteck/module-multi-coupon",
     "type": "magento2-module",
-    "version": "1.0.0",
-    "description": "Extension of Magento2 to allow multiple coupon usage.",
-    "keywords": [
-        "ecomteck",
-        "multi coupon",
-        "magento 2 multicoupon",
-        "magento 2 multi coupon",
-        "magento 2 extension free"
-    ],
+    "description": "Extension of Magento2 Sales Rule to allow multiple coupon usage.",
+    "keywords": ["magento2", "salesrule", "coupon", "cart", "multiple"],
     "license": "OSL-3.0",
+    "version": "1.0.0",
     "require": {
-        "magento/framework": "*",
-        "magento/module-sales-rule": "*"
+        "magento/framework": "^102.0.0",
+        "magento/module-sales-rule": "^101.1.0"
     },
+    "authors": [
+        {
+            "name": "Ecomteck",
+            "email": "ecomteck@gmail.com",
+            "role": "Magento 2 Ecomteck MultiCoupon"
+        }
+    ],
     "autoload": {
         "files": [
             "registration.php"

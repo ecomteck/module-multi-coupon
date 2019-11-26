@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Ecomteck_MultiCoupon frontend dependency injection configuration.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade this module to newer
+ * versions in the future.
+ *
+ * @category  Ecomteck
+ * @package   Ecomteck\MultiCoupon
+ * @author    Ecomteck <ecomteck@gmail.com>
+ * @copyright 2019 Ecomteck
+ * @license   Open Software License ("OSL") v. 3.0
+ */
+ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <preference for="Magento\Checkout\Block\Cart\Coupon" type="Ecomteck\MultiCoupon\Block\Cart\Coupon" />
+    <preference for="Magento\Checkout\Controller\Cart\CouponPost" type="Ecomteck\MultiCoupon\Controller\Cart\CouponPost" />
+</config>
